@@ -68,6 +68,9 @@ public class DTOArtista  implements Serializable{
         return true;
     }
 
+  
+    
+
     @Override
     public String toString() {
         return "DTOArtista{" + "curp=" + curp + ", nombre=" + nombre + '}';
